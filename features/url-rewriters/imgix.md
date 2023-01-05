@@ -7,6 +7,9 @@ ImageKit can translate transformations written in Imgix's syntax to ImageKit's s
 This feature is currently in beta. As a result, some transformations may work differently than expected.
 {% endhint %}
 
+test
+
+
 ## Supported Transformations
 
 The following Imgix transformations are supported for translation:
