@@ -11,6 +11,8 @@ You can use API keys to authenticate requests to [these API endpoints](README.md
 - Your account will always have at least one active pair of standard API keys.
   {% endhint %}
 
+  test
+
 ## Types of keys
 
 - Standard keys: A standard API key has read and write access to all the APIs listed above.
